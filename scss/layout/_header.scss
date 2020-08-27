@@ -1,0 +1,27 @@
+.header{
+    .logo{
+        background: url(../img/d’Perfume.png) no-repeat center;
+        background-size: contain;
+        display: block;
+        width: 130px;
+        text-indent: 101%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .mobile-nav{
+        button{
+            margin-left: 10px;
+        }
+    }
+    .circle{
+        font-size: 12px;
+        padding: 0 4px;
+        position: absolute;
+        right: 14%;
+    }
+}
+.mobile-bar{
+    a:hover{
+    background: darken($dark, 10%);
+    }
+}

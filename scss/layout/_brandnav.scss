@@ -1,0 +1,8 @@
+.brandnav{
+    a{
+        padding: 14px 16px;
+        &:hover{
+            background: darken($primaryD, 10%);
+        }
+    }
+}

@@ -1,0 +1,26 @@
+.detail{
+    &-1{
+        margin-bottom: 30px;
+    }
+    &-23{
+        margin-bottom: 30px;
+    }
+
+}
+.add-heart{
+    i{
+        margin-right: 6px;
+    }
+    &:hover{
+        text-decoration: none;
+        color: #765e30;
+    }
+}
+.select{
+    &-num{
+        height:auto;
+    }
+    &-btn{
+        padding:14px 0;
+    }
+}
